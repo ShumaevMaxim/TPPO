@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.15">
+  <diagram name="Страница — 1" id="SSwnVQ5cWj7G7MAEDLKA">
+    <mxGraphModel dx="796" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d0K_Fbcojt2cNPpG246x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-3" target="d0K_Fbcojt2cNPpG246x-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="210" />
+              <mxPoint x="175" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-3" target="d0K_Fbcojt2cNPpG246x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-3" target="d0K_Fbcojt2cNPpG246x-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="210" />
+              <mxPoint x="595" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-3" value="Формирование расписания руководителя по пению" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-5" target="d0K_Fbcojt2cNPpG246x-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-5" value="Изучение текущего расписания" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-6" target="d0K_Fbcojt2cNPpG246x-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-6" value="Составление графика работы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-7" target="d0K_Fbcojt2cNPpG246x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-7" value="Информирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-11" target="d0K_Fbcojt2cNPpG246x-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-11" value="Изучение списка свободных аудиторий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-13" value="Определение рабочих дней и выходных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-15" value="Определение классов, с которыми будет заниматься руководитель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-17" value="Оповещение руководителей и учеников о новом расписании" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="170" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
