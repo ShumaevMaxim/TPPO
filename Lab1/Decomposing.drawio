@@ -51,6 +51,9 @@
         <mxCell id="d0K_Fbcojt2cNPpG246x-11" value="Изучение списка свободных аудиторий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="170" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0K_Fbcojt2cNPpG246x-13" target="d0K_Fbcojt2cNPpG246x-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0K_Fbcojt2cNPpG246x-13" value="Определение рабочих дней и выходных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="170" height="70" as="geometry" />
         </mxCell>
@@ -59,6 +62,9 @@
         </mxCell>
         <mxCell id="d0K_Fbcojt2cNPpG246x-17" value="Оповещение руководителей и учеников о новом расписании" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="350" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d0K_Fbcojt2cNPpG246x-19" value="Согласование расписания с директором" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
